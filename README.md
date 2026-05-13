@@ -177,3 +177,13 @@ DTU (Delhi Technological University)
 # Repository Link
 
 https://github.com/Chitranshu-DTU-Official/Deep-Learning-Project
+
+---
+
+# Trained Model
+
+The pre-trained model can be downloaded from:
+
+https://drive.google.com/file/d/15uk8tbJVeeJ-IIBgAPDobMEIFmlmV_Xd/view?usp=sharing
+
+Download the model file and place it inside the `models/` directory before running `realtime.py`.
