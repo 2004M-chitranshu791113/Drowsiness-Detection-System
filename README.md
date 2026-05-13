@@ -66,6 +66,16 @@ Among these, **ResNet50V2** achieved the best accuracy and robustness.
 
 ---
 
+# Dataset
+
+The dataset used for training and evaluation can be downloaded from:
+
+https://datasets.esdalab.ece.uop.gr/download-files/
+
+After downloading, extract and organize the dataset before running the training scripts.
+
+---
+
 # Installation
 
 ## 1. Clone the Repository
