@@ -81,7 +81,7 @@ After downloading, extract and organize the dataset before running the training 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Chitranshu-DTU-Official/Deep-Learning-Project.git
+git clone https://github.com/2004M-chitranshu791113/Drowsiness-Detection-System.git
 cd Deep-Learning-Project
 ```
 
@@ -171,12 +171,6 @@ https://www.mdpi.com/2076-3417/13/13/7849
 
 Chitranshu Mahaur(23/CS/113)  
 DTU (Delhi Technological University)
-
----
-
-# Repository Link
-
-https://github.com/Chitranshu-DTU-Official/Deep-Learning-Project
 
 ---
 
