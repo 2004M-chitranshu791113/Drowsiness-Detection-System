@@ -82,7 +82,7 @@ After downloading, extract and organize the dataset before running the training 
 
 ```bash
 git clone https://github.com/2004M-chitranshu791113/Drowsiness-Detection-System.git
-cd Deep-Learning-Project
+cd Drowsiness-Detection-System
 ```
 
 ---
