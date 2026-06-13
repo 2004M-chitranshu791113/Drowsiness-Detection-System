@@ -169,7 +169,7 @@ https://www.mdpi.com/2076-3417/13/13/7849
 
 # Author
 
-Ayush Mittal(23/CS/106) and Chitranshu Mahaur(23/CS/113)  
+Chitranshu Mahaur(23/CS/113)  
 DTU (Delhi Technological University)
 
 ---
